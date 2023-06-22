@@ -12,14 +12,20 @@ Expense Tracker is a Python application built with Tkinter and XlsxWriter that a
 
 # Installation
 1. Clone the repository:</br>
-<b>git clone https://github.com/RahulPatil-Tech/Expense_Tracker.git</b>
+```shell
+git clone https://github.com/RahulPatil-Tech/Expense_Tracker.git
+```
 
 2. Navigate to the project directory:</br>
-<b>cd expense-tracker</b>
+```shell
+cd expense-tracker
+```
 
 3. Install the required dependencies:</br>
-<b>pip install tkinter</br>
-pip install xlsxwriter</b>
+```shell
+pip install tkinter
+pip install xlsxwriter
+```
 
 # Usage
 <br>1. Run the application:</br>
